@@ -1,0 +1,33 @@
+﻿# <type>: <subject>
+# Example: feat: add login page
+
+# <body>
+# Explain what and why, not how
+# Example: Add login functionality with email/password
+
+# <footer>
+# Reference issues like: Closes #123
+# Example: Closes #45
+
+# --- COMMIT MESSAGE GUIDE ---
+# <type> should be one of these:
+# feat: A new feature
+# fix: A bug fix
+# docs: Documentation only changes
+# style: Changes that don't affect code meaning (formatting, missing semicolons, etc)
+# refactor: A code change that neither fixes a bug nor adds a feature
+# perf: A code change that improves performance
+# test: Adding missing tests or correcting existing tests
+# chore: Changes to build process, dependencies, or tools
+
+# <subject>:
+# - use imperative, present tense: "add" not "added" or "adds"
+# - don't capitalize first letter
+# - no period (.) at the end
+# - limit to 50 characters
+
+# <body>:
+# - optional but recommended for clarity
+# - wrap at 72 characters
+# - explain what and why, not how
+# - can reference multiple issues: Closes #123, Fixes #456
